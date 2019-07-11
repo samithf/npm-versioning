@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/samithf/npm-versioning/compare/v1.2.0...v1.3.0) (2019-07-11)
+
+
+### Features
+
+* 🎸 test feature ([786b195](https://github.com/samithf/npm-versioning/commit/786b195))
+
+
+
 ## [1.2.0](https://github.com/samithf/npm-versioning/compare/v1.1.5...v1.2.0) (2019-07-11)
 
 
