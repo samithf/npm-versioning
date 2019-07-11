@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.5](https://github.com/samithf/npm-versioning/compare/v1.1.4...v1.1.5) (2019-07-11)
+
+
+### Bug Fixes
+
+* 🐛 changed console log value ([8d2e678](https://github.com/samithf/npm-versioning/commit/8d2e678))
+* 🐛 dsdsfsf ([53ce9cd](https://github.com/samithf/npm-versioning/commit/53ce9cd))
+* test ([9683584](https://github.com/samithf/npm-versioning/commit/9683584))
+
+
+
 ### [1.1.4](https://github.com/samithf/npm-versioning/compare/v1.1.3...v1.1.4) (2019-07-11)
 
 
