@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/samithf/npm-versioning/compare/v1.1.5...v1.2.0) (2019-07-11)
+
+
+### Bug Fixes
+
+* 🐛 gyt ([a1c4d66](https://github.com/samithf/npm-versioning/commit/a1c4d66))
+
+
+### Features
+
+* 🎸 top part ([1028d57](https://github.com/samithf/npm-versioning/commit/1028d57))
+
+
+
 ### [1.1.5](https://github.com/samithf/npm-versioning/compare/v1.1.4...v1.1.5) (2019-07-11)
 
 
