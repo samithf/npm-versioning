@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.1](https://github.com/samithf/npm-versioning/compare/v1.3.0...v1.3.1) (2019-07-12)
+
+
+### Bug Fixes
+
+* 🐛 issue task ([2b51e4a](https://github.com/samithf/npm-versioning/commit/2b51e4a))
+* 1234 tata ([c7a6795](https://github.com/samithf/npm-versioning/commit/c7a6795))
+* CT-1212 test ([9887763](https://github.com/samithf/npm-versioning/commit/9887763))
+* CT-1234 jva ([4d25cee](https://github.com/samithf/npm-versioning/commit/4d25cee))
+* CT:1212 bug fixes ([db1a8e8](https://github.com/samithf/npm-versioning/commit/db1a8e8))
+
+
+
 ## [1.3.0](https://github.com/samithf/npm-versioning/compare/v1.2.0...v1.3.0) (2019-07-11)
 
 
