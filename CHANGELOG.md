@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/samithf/npm-versioning/compare/v1.3.2...v1.4.0) (2019-07-12)
+
+
+### Bug Fixes
+
+* ct-1216 changes ([c01b6d4](https://github.com/samithf/npm-versioning/commit/c01b6d4))
+
+
+### Features
+
+* ct-1234 new feature ([3cff58d](https://github.com/samithf/npm-versioning/commit/3cff58d))
+
+
+
 ### [1.3.2](https://github.com/samithf/npm-versioning/compare/v1.3.1...v1.3.2) (2019-07-12)
 
 
